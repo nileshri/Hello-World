@@ -1,3 +1,3 @@
 # Hello-World
-1st one
-This is a changed version of Master branch code
+
+Removed the line above This is a 2nd  changed version of Master branch code
